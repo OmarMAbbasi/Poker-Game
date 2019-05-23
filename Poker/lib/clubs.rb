@@ -1,0 +1,3 @@
+class Clubs < Card
+
+end

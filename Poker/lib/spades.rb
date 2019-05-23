@@ -1,0 +1,3 @@
+class Spades < Card
+
+end

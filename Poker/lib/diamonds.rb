@@ -1,0 +1,3 @@
+class Diamonds < Card
+
+end

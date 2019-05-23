@@ -1,0 +1,3 @@
+class Hearts < Card
+
+end
